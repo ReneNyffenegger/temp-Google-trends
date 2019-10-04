@@ -19,3 +19,5 @@ https://trends.google.com/trends/explore?date=all&q=sql%20null,data%20tool,data%
 https://trends.google.com/trends/explore?date=all&q=data%20analytics,data%20mining,artificial%20intelligence,machine%20learning,deep%20learning&hl=en
 
 https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=data,jquery,ajax,json,csv&hl=en
+
+https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=jquery,ajax,json,csv&hl=en
