@@ -27,5 +27,6 @@ https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=php,perl,python
 Note the peaks around christmas:
 https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=r&hl=en
 
-
 https://trends.google.com/trends/explore?date=all&geo=US&q=r&hl=en
+
+https://trends.google.com/trends/explore?date=all&q=data%20analytics,data%20analysis
