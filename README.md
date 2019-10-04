@@ -21,3 +21,5 @@ https://trends.google.com/trends/explore?date=all&q=data%20analytics,data%20mini
 https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=data,jquery,ajax,json,csv&hl=en
 
 https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=jquery,ajax,json,csv&hl=en
+
+https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=php,perl,python,r,ruby&hl=en
