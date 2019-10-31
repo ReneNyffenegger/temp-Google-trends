@@ -48,3 +48,9 @@ https://trends.google.com/trends/explore?date=all&geo=US&q=data%20compare,databa
 https://trends.google.com/trends/explore?date=all&geo=CH&q=stammdatenbereinigung,datenbereinigung,datenqualit%C3%A4t,datenbank,datenvergleich
 
 https://trends.google.com/trends/explore?date=all&geo=CH&q=data%20monitoring,datenqualit%C3%A4t,transparenz,data%20warehouse
+
+
+*******************
+
+
+https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=SQL|Excel|Data|Data_mining|Data_comparison
