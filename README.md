@@ -38,3 +38,13 @@ https://trends.google.com/trends/explore?date=all&q=excel,sql,%2Fm%2F026sq,compa
 https://trends.google.com/trends/explore?date=all&q=excel%20vlookup,excel%20drop%20down%20list,excel%20if,excel%20pivot%20table,excel%20remove%20duplicates
 
 https://trends.google.com/trends/explore?date=all&geo=CH&q=daten,excel,vergleich,datenvergleich,Datenqualit%C3%A4t
+
+https://trends.google.com/trends/explore?geo=US&q=excel,sap,tableau,office%20365,%2Fm%2F02l0yf8
+
+https://trends.google.com/trends/explore?geo=US&q=data%20science,data%20warehouse,data%20mining,data%20scientist,data%20analytics
+
+https://trends.google.com/trends/explore?date=all&geo=US&q=data%20compare,database,cloud,%2Fm%2F076tfwq
+
+https://trends.google.com/trends/explore?date=all&geo=CH&q=stammdatenbereinigung,datenbereinigung,datenqualit%C3%A4t,datenbank,datenvergleich
+
+https://trends.google.com/trends/explore?date=all&geo=CH&q=data%20monitoring,datenqualit%C3%A4t,transparenz,data%20warehouse
