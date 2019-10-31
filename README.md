@@ -32,3 +32,5 @@ https://trends.google.com/trends/explore?date=all&geo=US&q=r&hl=en
 https://trends.google.com/trends/explore?date=all&q=data%20analytics,data%20analysis
 
 https://trends.google.com/trends/explore?date=all&q=sql,linq,sparql,pig
+
+https://trends.google.com/trends/explore?date=all&q=excel,sql,%2Fm%2F026sq,compare,database&hl=en
