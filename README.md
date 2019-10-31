@@ -36,3 +36,5 @@ https://trends.google.com/trends/explore?date=all&q=sql,linq,sparql,pig
 https://trends.google.com/trends/explore?date=all&q=excel,sql,%2Fm%2F026sq,compare,database&hl=en
 
 https://trends.google.com/trends/explore?date=all&q=excel%20vlookup,excel%20drop%20down%20list,excel%20if,excel%20pivot%20table,excel%20remove%20duplicates
+
+https://trends.google.com/trends/explore?date=all&geo=CH&q=daten,excel,vergleich,datenvergleich,Datenqualit%C3%A4t
