@@ -54,3 +54,5 @@ https://trends.google.com/trends/explore?date=all&geo=CH&q=data%20monitoring,dat
 
 
 https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-90&pages=SQL|Excel|Data|Data_mining|Data_comparison
+
+https://tools.wmflabs.org/pageviews/?project=de.wikipedia.org&platform=all-access&agent=user&start=2015-07&end=2019-09&pages=Datenbank%7CDatenqualit%C3%A4t|Datenvalidierung|Datenm%C3%BCll-Management|Datenschutz-Grundverordnung
