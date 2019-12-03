@@ -47,6 +47,8 @@ https://trends.google.com/trends/explore?date=all&geo=US&q=data%20compare,databa
 
 https://trends.google.com/trends/explore?date=all&geo=CH&q=stammdatenbereinigung,datenbereinigung,datenqualit%C3%A4t,datenbank,datenvergleich
 
+https://trends.google.com/trends/explore?geo=CH&q=Datenqualit%C3%A4t,%2Fm%2F09mlf2,datenabgleich,doubletten,falsche%20daten
+
 https://trends.google.com/trends/explore?date=all&geo=CH&q=data%20monitoring,datenqualit%C3%A4t,transparenz,data%20warehouse
 
 
