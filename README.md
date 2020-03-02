@@ -64,3 +64,5 @@ https://tools.wmflabs.org/pageviews/?project=de.wikipedia.org&platform=all-acces
 https://tools.wmflabs.org/pageviews/?project=de.wikipedia.org&platform=all-access&agent=user&start=2015-07&end=2019-09&pages=DBA%7COracle_(Datenbanksystem)|SQL-Server|SQL_Server_Reporting_Services|SQL_Server_Integration_Services
 
 https://trends.google.com/trends/explore?date=all&q=csv,xml,json
+
+https://trends.google.com/trends/explore?date=all&q=import,data,analysis,excel,export
