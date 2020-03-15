@@ -66,3 +66,8 @@ https://tools.wmflabs.org/pageviews/?project=de.wikipedia.org&platform=all-acces
 https://trends.google.com/trends/explore?date=all&q=csv,xml,json
 
 https://trends.google.com/trends/explore?date=all&q=import,data,analysis,excel,export
+
+
+## TODO
+
+https://github.com/ReneNyffenegger/Google-Suchbegriffe
