@@ -24,6 +24,10 @@ https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=jquery,ajax,jso
 
 https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=php,perl,python,r,ruby&hl=en
 
+https://trends.google.com/trends/explore?cat=13&date=all&q=php,perl,python,powershell,ruby&hl=en
+
+https://trends.google.com/trends/explore?cat=13&date=today%205-y&q=php,perl,python,powershell,ruby&hl=en
+
 Note the peaks around christmas:
 https://trends.google.com/trends/explore?cat=5&date=all&geo=US&q=r&hl=en
 
